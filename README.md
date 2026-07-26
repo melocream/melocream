@@ -34,6 +34,10 @@
 | [gcp-automation-skill](https://github.com/melocream/gcp-automation-skill)     | GCP 운영 자동화                         |
 | [GCP-optimize-skill](https://github.com/melocream/GCP-optimize-skill)         | GCP 비용/리소스 최적화                  |
 
+### 📚 스터디·지식공유
+
+- [awesome-llm-study](https://github.com/melocream/awesome-llm-study) — LLM/ML 발전과정·강의·논문·자료를 카테고리별로 모은 큐레이션 (검증된 링크만)
+
 ### 🔬 그 밖의 작업 (일부 비공개)
 
 > 코드/세부는 비공개이지만 무엇을 만들어 왔는지 간단히.
