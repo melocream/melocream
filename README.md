@@ -1,37 +1,61 @@
 <h1 align="center">👋 안녕하세요, 김동원입니다</h1>
 
 <p align="center">
-  <b>AI 네이티브 팀을 위한 control plane — <a href="https://marblo.app">Marblo</a> 를 만듭니다.</b>
+  <b>AI 에이전트를 하나의 엔지니어링 팀으로 만드는<br/><a href="https://marblo.app/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=github_presence_2026_10&amp;utm_content=hero_headline">Marblo</a>를 만들고 있습니다.</b>
 </p>
 
 <p align="center">
-  오케스트레이터가 목표를 티켓으로 분해하고,<br/>
-  여러 AI 에이전트를 격리된 워크트리에 스폰해<br/>
-  추적 · 검증 · 안전 머지까지 한 화면에서 굴리는 개발 협업 도구.
+  Claude Code, Codex와 여러 AI 에이전트를 하나의 프로젝트에서 조율합니다.<br/>
+  작업 분배부터 실시간 진행 추적, 워크트리 격리, 리뷰와 안전한 머지까지.
 </p>
 
 <p align="center">
-  <a href="https://marblo.app">🌐 marblo.app</a>
+  <a href="https://marblo.app/download?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=github_presence_2026_10&amp;utm_content=hero_download">⬇️ 무료로 시작하기</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/marblo-app">🏢 @marblo-app</a>
+  <a href="https://github.com/marblo-app/marblo">📖 공개 리포지토리</a>
   &nbsp;·&nbsp;
-  <a href="mailto:team@marblo.app">✉️ team@marblo.app</a>
+  <a href="https://marblo.app/pricing?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=github_presence_2026_10&amp;utm_content=hero_pricing">💎 플랜 보기</a>
+</p>
+
+<p align="center">
+  <sub>Free 플랜 제공 · Claude Code·Codex 등 연결한 AI 계정의 사용료는 별도입니다.</sub>
 </p>
 
 ---
 
-## 🚀 Marblo — 플래그십
+## 🚀 Marblo
 
-여러 AI 코딩 에이전트(Claude · Codex · 그 외)를 **한 명의 오케스트레이터**가 지휘하는 데스크탑 앱입니다.
+Marblo는 여러 AI 코딩 에이전트를 위한 **실시간 오케스트레이션 control plane**입니다.
 
-칸반에서 티켓을 끊으면 격리 워크트리에 에이전트가 붙고, 진행·비용·의사결정이 전부 원장에 남습니다.
+- **조율:** 목표를 티켓으로 나누고 여러 에이전트의 진행 상태를 한 보드에서 추적합니다.
+- **격리:** 티켓별 워크트리로 병렬 작업이 서로 덮어쓰지 않게 합니다.
+- **리뷰:** 변경사항을 확인하고 승인한 뒤 안전하게 머지합니다.
+
+<p align="center">
+  <a href="https://marblo.app/?utm_source=github&amp;utm_medium=profile&amp;utm_campaign=github_presence_2026_10&amp;utm_content=product_screenshot">
+    <img src="https://raw.githubusercontent.com/marblo-app/marblo/main/assets/tabs/board.svg" alt="Marblo 보드에서 여러 AI 에이전트의 티켓 진행 상태를 확인하는 화면" width="860" />
+  </a>
+</p>
 
 | | |
 | --- | --- |
-| 🌐 **웹** | [marblo.app](https://marblo.app) |
-| 🖥 **다운로드** | [marblo-releases](https://github.com/melocream/marblo-releases) |
+| 🌐 **제품** | [marblo.app](https://marblo.app/?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=product_table) |
+| 🖥 **다운로드** | [무료로 시작하기](https://marblo.app/download?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=product_table) |
+| 📘 **시작 가이드** | [첫 미션까지 따라하기](https://marblo.app/guide?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=product_table) |
 | 📖 **공개 쇼케이스** | [marblo-app/marblo](https://github.com/marblo-app/marblo) |
 | 🏢 **공식 계정** | [@marblo-app](https://github.com/marblo-app) |
+
+---
+
+## 📝 최근 Marblo 글
+
+<!-- BLOG-POST-LIST:START -->
+- [Marblo Getting Started — From Download to Your First Finished Agent](https://marblo.app/en/blog/getting-started?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=latest_post)
+- [Managing Heterogeneous Agents — Placing Claude, Codex, and Antigravity by Strength](https://marblo.app/en/blog/managing-heterogeneous-agents?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=latest_post)
+- [Six Agents Charging at Once — Without Stepping on Each Other](https://marblo.app/en/blog/parallel-agents-that-dont-collide?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=latest_post)
+<!-- BLOG-POST-LIST:END -->
+
+[전체 글 보기 →](https://marblo.app/blog?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=blog_index)
 
 ---
 
