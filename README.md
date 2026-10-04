@@ -1,37 +1,41 @@
 <h1 align="center">👋 안녕하세요, 김동원입니다</h1>
 
 <p align="center">
-  <b>AI 네이티브 팀을 위한 control plane — <a href="https://marblo.app">Marblo</a> 를 만듭니다.</b>
+  <b>AI 에이전트가 실제 엔지니어링 팀처럼 일하는 방법을 만들고 기록합니다.</b>
 </p>
 
 <p align="center">
-  오케스트레이터가 목표를 티켓으로 분해하고,<br/>
-  여러 AI 에이전트를 격리된 워크트리에 스폰해<br/>
-  추적 · 검증 · 안전 머지까지 한 화면에서 굴리는 개발 협업 도구.
-</p>
-
-<p align="center">
-  <a href="https://marblo.app">🌐 marblo.app</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/marblo-app">🏢 @marblo-app</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:team@marblo.app">✉️ team@marblo.app</a>
+  여러 코딩 에이전트를 함께 움직일 때 생기는 조율·격리·리뷰 문제를 풀고,<br/>
+  직접 만들고 운영하며 배운 것을 공개 자산과 글로 나눕니다.
 </p>
 
 ---
 
-## 🚀 Marblo — 플래그십
+## 🚀 지금 만드는 것
 
-여러 AI 코딩 에이전트(Claude · Codex · 그 외)를 **한 명의 오케스트레이터**가 지휘하는 데스크탑 앱입니다.
+### Marblo
 
-칸반에서 티켓을 끊으면 격리 워크트리에 에이전트가 붙고, 진행·비용·의사결정이 전부 원장에 남습니다.
+여러 AI 코딩 에이전트가 하나의 프로젝트에서 충돌 없이 일하도록 조율하는 **실시간 오케스트레이션 control plane**을 만들고 있습니다.
 
-| | |
-| --- | --- |
-| 🌐 **웹** | [marblo.app](https://marblo.app) |
-| 🖥 **다운로드** | [marblo-releases](https://github.com/melocream/marblo-releases) |
-| 📖 **공개 쇼케이스** | [marblo-app/marblo](https://github.com/marblo-app/marblo) |
-| 🏢 **공식 계정** | [@marblo-app](https://github.com/marblo-app) |
+- [Marblo 알아보기](https://marblo.app/?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=now_building)
+- [공식 공개 리포지토리](https://github.com/marblo-app/marblo)
+- [공식 GitHub 조직](https://github.com/marblo-app)
+
+제가 집중하는 것은 기능을 더 나열하는 일이 아니라, 에이전트가 늘어날수록 흐려지는 **작업 소유권, 격리, 진행 상태, 리뷰 근거**를 한 흐름으로 연결하는 일입니다.
+
+---
+
+## 📝 빌더 로그
+
+최근에는 이런 주제를 기록했습니다.
+
+<!-- BLOG-POST-LIST:START -->
+- **Marblo Getting Started — From Download to Your First Finished Agent**
+- **Managing Heterogeneous Agents — Placing Claude, Codex, and Antigravity by Strength**
+- **Six Agents Charging at Once — Without Stepping on Each Other**
+<!-- BLOG-POST-LIST:END -->
+
+[빌더 로그 전체 보기 →](https://marblo.app/blog?utm_source=github&utm_medium=profile&utm_campaign=github_presence_2026_10&utm_content=builder_log)
 
 ---
 
@@ -56,19 +60,25 @@
 
 ---
 
-## 🔬 그 밖의 작업
+## 🔭 관심 분야
 
-> 코드는 비공개이거나 별도 레포입니다. 방향만 적어둡니다.
-
-- **에이전트 협업 MCP** — 태스크 기반 에이전트 팀 관리. Marblo 전신.
-- **퀀트 · 리서치** — 데이터 기반 백테스트 · 자동매매 실험.
-- **금융 분석 파이프라인** — 종목 펀더멘털 · 리포트 자동 정리.
+- **멀티 에이전트 오케스트레이션** — 여러 모델과 도구가 같은 프로젝트에서 함께 일하는 방식
+- **개발자 도구와 워크플로** — 반복 작업을 줄이고 리뷰 가능한 결과로 수렴시키는 인터페이스
+- **AI 시스템의 신뢰성** — 상태, 비용, 출처, 검증 근거를 숨기지 않는 운영
+- **데이터 기반 제품 개발** — 가설을 계측하고 실제 사용 결과로 다음 결정을 내리는 과정
 
 ---
 
 ## 🛠 자주 쓰는 것
 
 `TypeScript` · `Python` · `Electron` · `Next.js` · `FastAPI` · `Firebase` · `GCP` · `BigQuery` · `MCP` · `LLM 오케스트레이션`
+
+---
+
+## 💬 연락 · 소셜
+
+- GitHub: [@melocream](https://github.com/melocream) · [@marblo-app](https://github.com/marblo-app)
+- Email: [team@marblo.app](mailto:team@marblo.app)
 
 ---
 
